@@ -346,7 +346,7 @@ function make_slides(f) {
 function init_explogic() {
 
   //Experiment constants
-  PRECISION_CUTOFF = 1;
+  PRECISION_CUTOFF = 50;
   NUM_COLS = 2;
   MIN_WINDOW_WIDTH = 1280;
   BUTTON_HEIGHT = 30;
