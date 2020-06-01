@@ -402,8 +402,8 @@ function init_explogic() {
     $(".loc5").html(loc5_img);
     var loc6_img = '<img src="images/'+stim.location6+'.png" style="height:90px" class="left">';
     $(".loc6").html(loc6_img);
-    var boy = '<img src="images/boy.png" style="height:200px" align="buttom">';
-    var girl = '<img src="images/girl.png" style="height:200px" align="buttom">';
+    var boy = '<img src="images/boy.png" class="kid-img" align="buttom">';
+    var girl = '<img src="images/girl.png" class="kid-img" align="buttom">';
     $(".loc7").html(boy);
     $(".loc8").html(boy);
     $(".loc9").html(girl);
