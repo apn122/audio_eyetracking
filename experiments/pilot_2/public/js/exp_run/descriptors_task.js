@@ -126,6 +126,7 @@ function make_slides(f) {
         var loc = $(this).data().loc
         if (["AOI5","AOI6"].includes(loc)) {
           $(".err").show();
+          console.log("should show error");
         } else {
           exp.selection = loc;
           exp.timer = (Date.now()-exp.trial_start);

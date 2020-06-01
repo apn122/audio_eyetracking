@@ -45,7 +45,7 @@
   <!-- INSERT UNIQUE TURKER ID HERE -->
   <script type="text/JavaScript">
     $(document).ready(function(){
-      var ut_id = "bc2ffd2095ba0b172c5985478bd39e72";
+      var ut_id = "43768d960b4ba2cdc7dfaf73a5298861";
       if (UTWorkerLimitReached(ut_id)) {
         $(".slide").hide();
         $("body").html("You have already completed the maximum number of HITs allowed by this requester. Please click 'Return HIT' to avoid any impact on your approval rating.");
@@ -314,23 +314,31 @@
       <button class="second_slide" onclick="_s.second_slide()">Continue</button>
     </div>
 
-		<div class="grid-container">
-      <div class="loc1 loc" id="one" data-loc="AOI1"></div>
-			<div class="loc2 loc" data-loc="AOI2"></div>
-			<div class="loc3 loc" data-loc="AOI3"></div>
-			<div class="loc4 loc" data-loc="AOI4"></div>
-			<div class="loc5 loc" data-loc="AOI5"></div>
-			<div class="loc6 loc" data-loc="AOI6"></div>
-			<div class="loc7 loc" data-loc="AOI7"></div>
-			<div class="loc8 loc" data-loc="AOI8"></div>
-			<div class="loc9 loc" data-loc="AOI9"></div>
-			<div class="loc10 loc" data-loc="AOI10"></div>
-    </div>
-
     <div class="text-center">
-      <div class="err">Please click on one of the children.</div>
 		  <button class="grid_button" onclick="_s.grid()">Continue</button>
     </div>
+    
+    <div class="relgrid">
+      <div class="absgrid">
+        <div class="grid-container">
+          <div class="loc1 loc" id="one" data-loc="AOI1"></div>
+          <div class="loc2 loc" data-loc="AOI2"></div>
+          <div class="loc3 loc" data-loc="AOI3"></div>
+          <div class="loc4 loc" data-loc="AOI4"></div>
+          <div class="loc5 loc" data-loc="AOI5"></div>
+          <div class="loc6 loc" data-loc="AOI6"></div>
+          <div class="loc7 loc" data-loc="AOI7"></div>
+          <div class="loc8 loc" data-loc="AOI8"></div>
+          <div class="loc9 loc" data-loc="AOI9"></div>
+          <div class="loc10 loc" data-loc="AOI10"></div>
+        </div>
+      </div>
+    </div>
+
+ 
+
+
+    <div class="err"><center>Please click on one of the children.</center></div>
 
   </div>
 
