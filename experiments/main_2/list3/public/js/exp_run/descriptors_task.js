@@ -38,7 +38,6 @@ function make_slides(f) {
         })
       }
     }
-
   });
 
   slides.sound_test = slide({
@@ -208,6 +207,10 @@ function make_slides(f) {
       exp.trial_start = Date.now();
       console.log("timer:"+(Date.now()-exp.trial_start))
 
+      exp.tlist = [];
+      exp.xlist = [];
+      exp.ylist = [];
+
       $(".err").hide();
       $(".grid-container").hide();
       $(".loader").show();
@@ -233,6 +236,7 @@ function make_slides(f) {
 
 
         }, false);
+
       webgazer.setGazeListener(function(data, elapsedTime) {
         if (data == null) {
           return;
