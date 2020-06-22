@@ -1,0 +1,18 @@
+language,previous_accuracy_attempts,eyesight_task,age,comments,gender,accuracy,eyesight,workerid,time_in_minutes
+English,[33],neither,41,,Male,70,none,0,8.095066666666666
+English,[],neither,26,,Male,76,nearsighted,1,10.774566666666667
+English,[42],neither,36,,Female,60,none,2,9.52895
+English,[],neither,48,No.,Female,62,none,3,9.156783333333333
+english,[],neither,44,,Male,68,none,4,9.383583333333334
+English,"[4, 13, 13, 22]",neither,34,,Female,51,none,5,18.560266666666667
+English,[],glasses,31,,Male,60,nearsighted,6,7.73475
+English,[5],glasses,33,no,Male,55,nearsighted,7,9.058566666666668
+English,[],neither,31,no comment,Female,59,none,8,8.77955
+English,[],neither,31,,Male,59,nearsighted,9,10.0528
+English,[],neither,29,Great experiment overall,Male,64,none,10,8.318666666666667
+english,[],contacts,42,,Female,53,nearsighted,11,13.536716666666667
+English,[],neither,25,,Male,57,none,12,12.62185
+English,[],neither,31,,Female,77,none,13,8.064166666666667
+English,[9],neither,41,,Female,54,none,14,14.105366666666667
+English,[9],neither,27,Problems with calibration.,Male,56,none,15,22.213183333333333
+English,[],neither,27,,Female,73,none,16,7.918666666666667

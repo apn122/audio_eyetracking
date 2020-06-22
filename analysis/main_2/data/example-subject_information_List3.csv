@@ -1,0 +1,18 @@
+gender,comments,eyesight_task,time_in_minutes,age,language,accuracy,previous_accuracy_attempts,eyesight,workerid
+Male,,neither,7.786616666666666,32,English,81,[],none,0
+Female,,neither,14.18905,31,english,51,"[12, 12]",none,1
+Female,,neither,7.143866666666667,22,english,61,[],none,2
+Male,,glasses,6.964566666666666,23,English,68,[],nearsighted,3
+Male,Calibration was a pain in the rear and made this more difficult than necessary,neither,15.649566666666667,27,ENGLISH,55,[],nearsighted,4
+Female,,neither,17.48755,52,Bulgarian,61,[8],farsighted,5
+Female,none,neither,14.372166666666667,67,English,57,[],nearsighted,6
+Female,,contacts,18.0705,39,English,58,[9],nearsighted,7
+Female,N/A,neither,15.035733333333333,38,English,68,[25],none,8
+Female,,neither,12.241683333333333,31,English,52,[22],none,9
+Female,,neither,10.896866666666666,29,english,67,[14],none,10
+Female,,neither,10.205316666666667,50,English ,71,[],none,11
+Male,,glasses,7.524566666666667,36,English,68,[],nearsighted,12
+Female,Interesting study but I can say doing kids work bored me .,neither,13.958666666666666,25,English,72,[31],none,13
+Male,"It was a very simple HIT. Luckily calibration of the camera went smoothly, unlike times I have tried in the past.",neither,10.433866666666667,32,English,62,[],none,14
+Female,,neither,7.864416666666667,22,english,83,[],none,15
+Female,No issues.,neither,9.812983333333333,23,English,80,[],none,16
